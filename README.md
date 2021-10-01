@@ -8,7 +8,7 @@
   
   Twitter account  : https://twitter.com/theartistnw
   
-  contact no       : +91 9811929305
+  Email            : theartistnw@gmail.com
   
   Country          : India
   
