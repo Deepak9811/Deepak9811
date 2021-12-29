@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepak9811
 - 👀 I’m Full stack developer
-- 🌱 I’m currently learning ...Python and Javascript
+- 🌱 I’m currently learning ...C#
 - 📫 How to reach me ...
      
   Email            : theartistnw@gmail.com
