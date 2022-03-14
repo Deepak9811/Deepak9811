@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Deepak9811
+- 👋 Hi, I’m Deepak Singh
 - 👀 I’m Full stack developer
-- 🌱 I’m currently learning ...C#
+- 🌱 I’m currently pursuing ...MCA
 - 📫 How to reach me ...
      
   Stack-over-flow  : https://stackoverflow.com/users/16710738/deepak-singh
