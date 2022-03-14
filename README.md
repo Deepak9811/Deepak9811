@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Singh
 - 👀 I’m Full stack developer
-- 🌱 I’m currently pursuing ...MCA
+- 🌱 I’m currently pursuing ...MCA from amity university
 - 📫 How to reach me ...
      
   Stack-over-flow  : https://stackoverflow.com/users/16710738/deepak-singh
