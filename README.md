@@ -21,22 +21,21 @@ I'm Deepak Singh! from Delhi, India. I'm a **Full-Stack-Developer**:iphone:, loo
 
 
 ### 💼  About Me : 
-* 🎓 I’m a MCA Student from Amity College 
-* 💻 I am currently brushing up my skills and plan to learn In Depth Node js, MySql, Python
+* 🎓 MCA from Amity College 
 * 🤔 Exploring new technologies and developing software solutions and quick hacks.
-* ✍️ Watching Anime and trying out latest design trends as hobbies/side hustles.
+* ✍️ Watching Anime and trying out the latest design trends as hobbies/side hustles.
 * 🌱 Doing Some Personal Projects 😍
-* ☕ I believe, a perfect cup of coffee can be the ultimate solution for any stress.
+* ☕ I believe a perfect cup of coffee can be the ultimate solution for any stress.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
-* Learn to code: New ways : 3-4 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code: New ways : 3-4 hours a day with no distraction ( One or two days off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
 * Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
+* Avoid spending too much time on YouTube Entertainment:skull_and_crossbones:
+* Adapting the minimalism lifestyle
 * 🔜
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
