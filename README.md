@@ -49,7 +49,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
   </a>
  <!-- icons -->
 
- <code><a href = "https://reactjs.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207"></a></code>
+ <code><a href = "https://reactjs.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a></code>
 <code><a href = "https://nodejs.org/en/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/887px-Node.js_logo_2015.svg.png?20150315010906" alt="Android"></a></code>
 <br>
 
