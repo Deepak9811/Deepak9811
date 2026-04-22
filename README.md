@@ -40,8 +40,8 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+  <a href="https://github.com/Deepak9811?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Deepak Singh's github stats" 
          src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png?20200328184328" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
