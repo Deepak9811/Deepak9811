@@ -49,13 +49,13 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
   </a>
  <!-- icons -->
 
- <code><a href = "https://reactjs.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a></code>
-<code><a href = "https://nodejs.org/en/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/887px-Node.js_logo_2015.svg.png?20150315010906" alt="Android"></a></code>
+ <code><a href = "https://reactjs.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react js icon and website"></a></code>
+<code><a href = "https://nodejs.org/en/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node js icon and website"></a></code>
 <br>
 
 
 
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/768px-Android_Studio_Icon_%282014-2019%29.svg.png?20210301045443" alt="Android Studio"></a></code> 
+<code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio"></a></code> 
 <code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
 <br>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
