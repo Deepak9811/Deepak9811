@@ -75,7 +75,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
 <br>
 <code><a href = "https://www.adobe.com/in/products/photoshop/landpa.html?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfJP6gWpQWNonZp8lG2R-ksWB0ah0TP58DHqWXO4R_bBl0JrFocQ_fcaAtR8EALw_wcB&sdid=SGDJMMG3&mv=search&ef_id=Cj0KCQjwkOqZBhDNARIsAACsbfJP6gWpQWNonZp8lG2R-ksWB0ah0TP58DHqWXO4R_bBl0JrFocQ_fcaAtR8EALw_wcB:G:s&s_kwcid=AL!3085!3!585712413968!e!!g!!photoshop!16470706475!133281435039"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Adobe_Photoshop_CS6_icon_2.png?20160112215004"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Illustrator_Icon_%28CS6%29.svg"></a></code>
 <code><a href = "https://getbootstrap.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="Android"></a></code>
 
 </p>
