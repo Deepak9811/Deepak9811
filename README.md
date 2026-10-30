@@ -19,10 +19,10 @@ I build secure, production-grade mobile banking apps for Android and iOS with Re
 
 ### 🧰 Tech stack
 
-**Mobile:** React Native · TypeScript · JavaScript · Kotlin/Java (native modules) · Swift/Obj-C (native modules) · Redux Toolkit
-**Web & backend:** React · Vite · Node.js · Express · MySQL · Firebase
-**Tooling:** Fastlane · Git · Android Studio · Xcode
-**Data (side track):** SQL · Python · Excel · Power BI
+- **Mobile:** React Native · TypeScript · JavaScript · Kotlin/Java (native modules) · Swift/Obj-C (native modules) · Redux Toolkit
+- **Web & backend:** React · Vite · Node.js · Express · MySQL · Firebase
+- **Tooling:** Fastlane · Git · Android Studio · Xcode
+- **Data (side track):** SQL · Python · Excel · Power BI
 
 ### 🚀 Featured projects
 
